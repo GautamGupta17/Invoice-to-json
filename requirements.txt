@@ -1,0 +1,9 @@
+streamlit
+pytesseract
+Pillow
+langchain-community
+langchain
+langchain_openai
+python-dotenv
+chromadb == 0.5.3
+langchain-huggingface
