@@ -1,4 +1,4 @@
-# STREAMLIT_APP: RAG Based Invoice-to-json
+# STREAMLIT APP: RAG Based Invoice-to-json
 Streamlit App: RAG-Based PDF and Image Invoices to JSON within seconds with extreme accuracy. 
 
 ## Overview
@@ -32,7 +32,7 @@ This app provides a solution by:
 </table>
 
 
-You can see the app in action with the demo images above. The app processes the uploaded files and displays the extracted information interactively.
+You can see the app in action with the demo images above. The app processes the uploaded files and displays the extracted information with extreme precision, using only open source solutions.
 
 ## Steps to Run the App
 
